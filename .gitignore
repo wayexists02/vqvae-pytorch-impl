@@ -1,0 +1,8 @@
+**/.vscode/
+**/__pycache__/
+**/.ipynb_checkpoints/
+**/ckpts/
+train_vqvae_ema.ipynb
+train_vqvae.ipynb
+train_vqvae_channel_wise.ipynb
+train_vqvae_ema_channel_wise.ipynb

@@ -1,0 +1,2 @@
+IMAGE_SIZE = 96
+CHANNEL = 3
